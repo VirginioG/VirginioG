@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/VirginioG/configure-ad)
   - [Active Directory: Deploying Active Directory Part 1](https://github.com/VirginioG/azure-network-protocols)
+  - [Active Directory: Deploying Active Directory Part 2](https://github.com/VirginioG/Deploying-Active-Directory-Part-2)
+  - [Active Directory: Enabling and Unlocking Accounts and Resetting Passwords]()
 
 <h2>🤳Connect with me:</h2>
 
