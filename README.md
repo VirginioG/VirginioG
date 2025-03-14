@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/VirginioG/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/VirginioG/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/VirginioG/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/VirginioG/azure-network-protocols)
+  - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/VirginioG/configure-ad)
+  - [Active Directory: Deploying Active Directory Part 1](https://github.com/VirginioG/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
